@@ -4,7 +4,7 @@
 <body>
 	<div align="center"><br />
 	PERHITUNGAN PENJUALAN BARANG 2c.php</div> <br /><br />
- <form method="post" action="" target="_self">
+ <form method="post" action="2a.php" target="_self">
   <table width="300" border="1" align="center">
         <tr>
           <td>Kode Barang</td>
